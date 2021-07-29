@@ -1,0 +1,83 @@
+.overflow-auto{
+    overflow: auto !important;
+}
+body{
+    font-family: Poppins !important;
+}
+
+.theme-primary-bg{
+    background-color: #E76F51 !important;
+}
+
+.theme-secondary-bg{
+    background-color: #264653;
+}
+
+.theme-paragraph-light-bg-primary{
+    color: #6C6C6C;
+}
+
+.theme-paragraph-light-bg-secondary{
+    color: #7E848C;
+   }
+   
+.theme-paragraph-dark-bg-primary{
+       color: #E0E0E0;
+   }
+
+.section-spacer {
+       margin-bottom: 10rem;
+   }
+
+.section-header-spacer{
+   margin-bottom: 4rem;
+}
+.text-color{
+    color: #E76F51;
+}
+.img-color{
+    filter: grayscale();
+}
+.icon-color{
+    color: #E76F51
+    ;
+}
+.font-color{
+    color: #E76F51;
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+.footer-anghor{
+    
+    text-decoration: none;
+    color: white;
+}
+.btn-primary{
+    background-color: #E76F51 !important;
+    
+}
+.btn-warning{
+    background-color: #E76F51 !important;
+
+}
+.car-size{
+    height: 150px;
+    border-radius: 15px;
+    padding: 8px;
+}
+.card-title{
+    font-weight: 600;
+    
+}
+.Blue-color{
+    color: rgb(22, 137, 231);
+}
+.red-color{
+    color: red;
+}
+.Yellow-Color{
+    color: #eea812;
+}
